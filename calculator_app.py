@@ -49,7 +49,6 @@ def division():
         print(f"{num1} / {num2} = {result}")
     print("-" * 20)
     
-
 print("-" * 20)
 print("Operations Available")
 print("Type '1' for Addition")
